@@ -1,0 +1,26 @@
+site_name: Christmas Star V2.0 Assembly Guide
+nav:
+  - Home: index.md
+  - Getting Started: gettingstarted.md
+  - Front Side: 
+    - Solderpaste: front/solderpaste1.md
+    - Placing Components: front/placing1.md
+    - Soldering: front/soldering1.md
+  - Rear Side: 
+    - Solderpaste: rear/solderpaste2.md
+    - Soldering: rear/soldering2.md
+  - Final Tasks:
+    - Inspection: final/inspection.md
+    - Install ESP32: final/fittingesp32.md
+  - Using Your Star:
+    - Powering: inuse/powering.md
+    - Installing WLED: inuse/installingwled.md
+    - Configuring WLED: inuse/configurewled.md
+    - Using WLED: inuse/usingwled.md
+  - What next?:
+    - When you get home: inuse/whengethome.md
+    - Explore WLED: inuse/explorewled.md
+    - Create addons: inuse/addons.md
+    - Alternatives: inuse/alternatives.md
+
+theme: readthedocs

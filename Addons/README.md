@@ -6,6 +6,11 @@ The main file is *staroutline.svg* which was used to create the star PCB outline
 
 Other files:
 
-* *StarCover* [OpenSCAD](https://openscad.org/) source file and *.stl* file suitable for 3D printing.
+* *StarCover* Diffuser cover for star created with [OpenSCAD](https://openscad.org/). Source file and *.stl* file suitable for 3D printing.
+* *StarBracket* Bracket for star, example is a tree topper created with [OpenSCAD](https://openscad.org/). Source file and *.stl* file suitable for 3D printing.
 
+Star cover/diffuser
 ![starcover](../images/starcover.jpg)
+
+Tree Topper bracket
+![treetopper](../images/treetopper.jpg)

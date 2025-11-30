@@ -12,4 +12,4 @@ Click on the *Config* button then the *WiFi Setup* button.
 Enter your WiFi network settings.
 ![Setup](../img/wledsetup04.jpg)
 
-The app will disconnnect from the star and reconnect to your previous WiFi. 
+The app will disconnnect from the star and reconnect to your previously connected WiFi. 

@@ -8,7 +8,7 @@ Working on one point of the star at a time, arrange 5 LEDs in the correct order,
 ![Placing LEDs](../img/leds2.jpg)
 
 Using tweezers, place one of the capacitors onto the pads, use a coctail stick to hold the component down while removing the tweezers just incase it sticks and lifts away.
-Place the first LED on the pads closest to the centre of the star, taking care not to have any clothing, jewellery or body parts touch the rest of the PCB. 
+Place the first LED on the pads closest to the centre of the star, taking care not to have any clothing, jewellery or body parts touch the rest of the PCB as this could rub away the solderpaste. 
 ![Placing LEDs](../img/frontplace1.jpg)
 
 Line up 5 LEDs, orientated correctly and place one at a time on each star point.

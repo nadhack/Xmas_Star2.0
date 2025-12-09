@@ -16,6 +16,6 @@ Star cover/diffuser
 Tree Topper bracket
 ![treetopper](../images/treetopper.jpg)
 
-Star Stick - Designed by and kindly shared by Craig Hogan
+Star Stick - Designed and kindly shared by Craig Hogan
 
 ![starstick](../images/star_stick.jpg)

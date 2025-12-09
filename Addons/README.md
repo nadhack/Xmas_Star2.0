@@ -8,9 +8,14 @@ Other files:
 
 * *StarCover* Diffuser cover for star created with [OpenSCAD](https://openscad.org/). Source file and *.stl* file suitable for 3D printing.
 * *StarBracket* Bracket for star, example is a tree topper created with [OpenSCAD](https://openscad.org/). Source file and *.stl* file suitable for 3D printing.
+* *seasonal_srar_stick_v3* for those that want a desk stand, Fusion and *.stl* file suitable for 3D printing. Designed and kindly shared by Craig Hogan.
 
 Star cover/diffuser
 ![starcover](../images/starcover.jpg)
 
 Tree Topper bracket
 ![treetopper](../images/treetopper.jpg)
+
+Star Stick - Designed by and kindly shared by Craig Hogan
+
+![starstick](../images/star_stick.jpg)
